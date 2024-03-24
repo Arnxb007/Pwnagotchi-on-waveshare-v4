@@ -11,7 +11,7 @@ Vist the official website for more information: https://pwnagotchi.ai/intro/
 main.name = "pwnagotchi"
 main.lang = "en"
 main.whitelist = [
-  "EXAMPLE_NETWORK"
+"EXAMPLE_NETWORK"
 ]
 main.plugins.grid.enabled = true
 main.plugins.grid.report = true
