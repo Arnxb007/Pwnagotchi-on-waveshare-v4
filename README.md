@@ -4,9 +4,9 @@ Pwnagotchi is a popular artificial intelligence-driven "hacking" device.  It's d
 Vist the official website for more information: https://pwnagotchi.ai/intro/
 
 # Installation
-1.Download this image of pwnagotchi: https://github.com/DrSchottky/pwnagotchi/releases/
-2.flash this image on the sd card
-3.create a new file in boot partition "config.toml" and paste the code below👇
+1. Download this image of pwnagotchi: https://github.com/DrSchottky/pwnagotchi/releases/
+2. flash this image on the sd card
+3. create a new file in boot partition "config.toml" and paste the code below👇
 # config.toml
 main.name = "pwnagotchi"
 main.lang = "en"
