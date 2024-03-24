@@ -1,3 +1,4 @@
+![IMG_20240324_225742 (1)](https://github.com/Arnxb007/Pwnagotchi-on-waveshare-v4/assets/151598485/a6cf2868-104c-480f-96fc-1d3bb6fba558)
 # Pwnagotchi
 Pwnagotchi is a popular artificial intelligence-driven "hacking" device.  It's designed to passively learn from nearby Wi-Fi networks, using machine learning algorithms to optimize its hacking strategies. Essentially, it's a fun way for cybersecurity enthusiasts to experiment with Wi-Fi security and AI.
 
