@@ -29,4 +29,3 @@ ui.web.enabled = true
 ui.web.address = "0.0.0.0"
 ui.web.origin = ""
 ui.web.port = 9000
-ui.web.on_frame = ""
