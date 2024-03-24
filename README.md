@@ -8,3 +8,7 @@ Vist the official website for more information: https://pwnagotchi.ai/intro/
 2. flash this image on the sd card
 3. download the config.toml file ☝️
 4. copy the config.toml file to the boot partition 
+5. now insert the sd card to the raspberry pi and connect it to your computer using the data port
+6. now install the RNDS drivers on your systam ☝️
+7. wait for few minutes until a new network device appear
+8. 
