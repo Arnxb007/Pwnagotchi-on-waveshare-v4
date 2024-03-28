@@ -9,8 +9,11 @@ Vist the official website for more information: https://pwnagotchi.ai/intro/
 2. flash this image on the sd card
 3. download the config.toml file ☝️
 4. copy the config.toml file to the boot partition 
-5. now insert the sd card to the raspberry pi and connect it to your computer using the data port
-6. now install the RNDS drivers on your system ☝️
+5.now insert the sd card to the raspberry pi and connect it to your computer using the data port
+6. now install the RNDS drivers on your system ☝️ // DEVICE MANAGER > ADD DRIVERS > BROWSE THE COMPUTER > "NAVIGATE TO THE RNDS FOLDER" > NEXT
 7. wait for few minutes until a new network device appear
-8. open any browser and paste this link: http://10.0.0.2:9000/
-9. now give the username and password by default both the password and username is "admin"
+8. now set the IP address and subnet mask //CONTROL PANEL > NETWORK AND INTERNET > NETWORK AND SHARING CENTER > CHNAGE ADAPTER SETTINGS > "NOW FIND USB RNDIS DEVICE" > "DOUBLE CLICK ON THAT " > PROPERTISE > IPV4 > 
+   IP ADDRESS "10.0.0.1" , SUBNET MASK "255.255.255.0" > OK
+9. open any browser and paste this link: http://10.0.0.2:9000/
+10. now give the username and password by default both the password and username is "admin"
+11. I f you face difficulty watch this video 👉 https://youtu.be/MeF30Z6y3BA?si=Mgxqwlk9ynluK7lb
