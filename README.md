@@ -16,4 +16,4 @@ Vist the official website for more information: https://pwnagotchi.ai/intro/
    IP ADDRESS "10.0.0.1" , SUBNET MASK "255.255.255.0" > OK
 9. open any browser and paste this link: http://10.0.0.2:9000/
 10. now give the username and password by default both the password and username is "admin"
-11. I f you face difficulty watch this video 👉 https://youtu.be/MeF30Z6y3BA?si=Mgxqwlk9ynluK7lb
+11. I f you face difficulty watch this video 👉 https://youtu.be/-VJVQaYVbkQ
